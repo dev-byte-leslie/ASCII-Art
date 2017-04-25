@@ -1,0 +1,11 @@
+﻿  Source.cpp
+  Project1.cpp
+d:\spring 2016\cs 145\programmingproject #1\ascii-art\programmingproject1\project1.cpp(44): warning C4309: 'initializing': truncation of constant value
+d:\spring 2016\cs 145\programmingproject #1\ascii-art\programmingproject1\project1.cpp(178): warning C4309: 'initializing': truncation of constant value
+d:\spring 2016\cs 145\programmingproject #1\ascii-art\programmingproject1\project1.cpp(179): warning C4309: 'initializing': truncation of constant value
+d:\spring 2016\cs 145\programmingproject #1\ascii-art\programmingproject1\project1.cpp(182): warning C4309: 'argument': truncation of constant value
+d:\spring 2016\cs 145\programmingproject #1\ascii-art\programmingproject1\project1.cpp(191): warning C4309: 'initializing': truncation of constant value
+d:\spring 2016\cs 145\programmingproject #1\ascii-art\programmingproject1\project1.cpp(192): warning C4309: 'initializing': truncation of constant value
+d:\spring 2016\cs 145\programmingproject #1\ascii-art\programmingproject1\project1.cpp(196): warning C4309: 'argument': truncation of constant value
+  Generating Code...
+  ProgrammingProject1.vcxproj -> D:\SPRING 2016\CS 145\ProgrammingProject #1\ASCII-Art\x64\Debug\ProgrammingProject1.exe
