@@ -1,13 +1,10 @@
 /********************************************************************
 *
 *File: Project1.cpp
-*Project: Programming Project 1 - CS 145 - Dr.Berrier
 *Author: Leslie Murphy
 *Description: C++ code that draws ASCII art
 *Date: 3-7-16
-*Comments: I was unable to get the sides of the frame fully working, 
-*		   there are areas in my code where I commented out. That way
-*		   you can see what I was trying.
+*Comments: I was unable to get the sides of the frame fully working.
 *
 *********************************************************************/
 
