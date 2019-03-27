@@ -1,5 +1,5 @@
 # ASCII-Art
-A c++ program that draws ASCII art based on values in text files.
+A C++ program that draws ASCII art based on values in text files.
 
 All parts of the line are separated by one or more white space characters.
 
